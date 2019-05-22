@@ -31,10 +31,6 @@ Part of that involves helping fix some of the cultural issues. This is another r
 
 **What makes you grumpy?**
 
-CheckPoint products.
-
-Anything to do with having to achieve something in Office 365 applications. Actually it's probably just Microsoft products generally.
-
 Being interrupted while attempting to think thru a problem or getting something urgent done is the biggest issue that I'm aware of.
 
 There's probably more triggers, I would actually appreciate more feedback on what they are.
